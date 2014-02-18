@@ -1,6 +1,6 @@
 # Retroserver
 
-TODO: Write a gem description
+Lightweight Ruby Web Server
 
 ## Installation
 
@@ -18,12 +18,18 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add this line to your application's primary .rb file
+
+    require 'retroserver'
 
 ## Contributing
 
-1. Fork it ( http://github.com/<my-github-username>/retroserver/fork )
+1. Fork it ( http://github.com/johncjensen/retroserver/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Source
+
+[practicingruby.com](https://practicingruby.com/articles/implementing-an-http-file-server?u=2c59db4496)

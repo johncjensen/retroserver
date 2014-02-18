@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Retroserver::VERSION
   spec.authors       = ["John Jensen"]
   spec.email         = ["johncjensen@hotmail.com"]
-  spec.summary       = %q{Lightweight Retro Ruby Webserver}
-  spec.description   = %q{Lightweight Retro Ruby Webserver}
-  spec.homepage      = ""
+  spec.summary       = %q{Lightweight Ruby Web Server}
+  spec.description   = %q{Experimental -- Lightweight Ruby Web Server}
+  spec.homepage      = "https://rubygems.org/gems/retroserver"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
