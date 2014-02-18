@@ -6,6 +6,7 @@ require 'retroserver/version'
 Gem::Specification.new do |spec|
   spec.name          = "retroserver"
   spec.version       = Retroserver::VERSION
+  spec.executables << "Retroserver"
   spec.authors       = ["John Jensen"]
   spec.email         = ["johncjensen@hotmail.com"]
   spec.summary       = %q{Lightweight Ruby Web Server}
